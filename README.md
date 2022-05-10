@@ -1,5 +1,7 @@
 # 04-NLTK-Detecting_Emotions_In_Text
 
+obs: Esse trabalho é apenas para entender a parte teórica e prática das técnicas apresentadas.
+
 ## **Detecção de emoções em texto com o Naive Bayes utilizando a biblioteca NLTK**
 
 ### Definição do Projeto
